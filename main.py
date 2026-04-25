@@ -58,7 +58,7 @@ def delete_user(user_id: int):
     
 # class Item(BaseModel):
 #     name: str
-#     price: float
+#     price: float cjeck
 #     version: str
 #     is_offer: bool | None = None
 
